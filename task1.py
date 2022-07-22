@@ -1,9 +1,9 @@
 def ask():
     decision = input("Would you like to try again? (enter Y to yes, or N to no)")
-    if (decision =='Y' or 'y'):
+    if (decision == 'Y' or decision == 'y'):
         program()
-    elif (decision =='N' or 'y'):
-        return
+    elif (decision =='N' or decision == 'n'):
+        quit()
     else:
         print('Input invalid')
         ask()
