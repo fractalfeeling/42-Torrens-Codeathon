@@ -1,5 +1,5 @@
 # 42-Torrens-Codeathon
-42 Adelaide and Torrens University joint 2-day Code-a-thon in Python. Team of of 4 incl. [@minttyfresh](https://github.com/mintyyfresh), @Ximena11
+42 Adelaide and Torrens University joint 2-day Code-a-thon in Python. Team of of 4 incl. [@minttyfresh](https://github.com/mintyyfresh), @Ximena11, @Surekha
 
 Top 3 result pending...  (as of 27th July 2022)
 
